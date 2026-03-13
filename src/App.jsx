@@ -1,11 +1,15 @@
 import './App.css'
+import DaisyNavbar from './component/DaisyNavbar/DaisyNavbar'
+import Navbar from './component/Navbar/Navbar'
+
 
 function App() {
 
 
   return (
+
     <>
-npm install lucide-react
+     <Navbar></Navbar>
     </>
   )
 }

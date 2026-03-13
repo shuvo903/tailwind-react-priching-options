@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Basic Plan",
+    "price": "$29.99/month",
+    "price_id": 1,
+    "description": "Ideal for individuals who want to stay fit with essential gym access.",
+    "features": [
+      "Access to gym facilities during regular hours",
+      "Unlimited use of cardio equipment",
+      "1 Free personal training session (first month)",
+      "Access to basic fitness classes",
+      "Free Wi-Fi access",
+      "Discount on additional personal training sessions",
+      "Access to locker rooms"
+    ]
+  },
+  {
+    "name": "Premium Plan",
+    "price": "$49.99/month",
+    "price_id": 2,
+    "description": "Perfect for dedicated fitness enthusiasts seeking expanded access and premium amenities.",
+    "features": [
+      "24/7 gym access",
+      "Unlimited cardio and strength equipment",
+      "4 Free personal training sessions per month",
+      "Unlimited group fitness classes",
+      "Free Wi-Fi and streaming services",
+      "Priority booking for classes and trainers",
+      "Access to sauna and steam room"
+    ]
+  },
+  {
+    "name": "Elite Plan",
+    "price": "$79.99/month",
+    "price_id": 3,
+    "description": "Ultimate membership for serious athletes with full access to all facilities and VIP perks.",
+    "features": [
+      "Unlimited 24/7 access to all facilities",
+      "All equipment and premium machines",
+      "Unlimited personal training sessions",
+      "VIP group classes and workshops",
+      "Private locker with laundry service",
+      "Nutritionist consultations (weekly)",
+      "Spa access including massage discounts"
+    ]
+  }
+]
