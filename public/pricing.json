@@ -17,6 +17,7 @@
   {
     "name": "Premium Plan",
     "price": "$49.99/month",
+    "popular":true,
     "price_id": 2,
     "description": "Perfect for dedicated fitness enthusiasts seeking expanded access and premium amenities.",
     "features": [
